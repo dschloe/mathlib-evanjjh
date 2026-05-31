@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mathlib-evanjjh"
-version = "0.1.4"
+version = "0.1.5"
 authors = [{ name = "EvanJJH", email = "j2hoon85@gmail.com" }]
 description = "A class-based Python utility package for arithmetic, geometric sequences, and trigonometry"
 readme = "README.md"

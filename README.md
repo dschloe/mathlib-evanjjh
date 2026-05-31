@@ -272,6 +272,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**EvanJJH** — [j2hoon85@gmail.com](mailto:j2hoon85@gmail.com)
+**EvanJJH** — [jhjung@dschloe.com](mailto:jhjung@dschloe.com)
 
 - Homepage: [https://github.com/dschloe/mathlib-evanjjh](https://github.com/dschloe/mathlib-evanjjh)
